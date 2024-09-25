@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/youtube-watch_videos-red.svg?color=0052FF&labelColor=090422&logo=youtube" /></a>
 </p>
 
-# Prefect
+# Prefects
 
 Prefect is a workflow orchestration framework for building data pipelines in Python.
 It's the simplest way to elevate a script into a resilient production workflow.
